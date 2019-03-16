@@ -1,4 +1,4 @@
-# SMACK-API-Android-Demo
+# SMACK-API-Android-Demo (UNMAINTAINED)
 A demo XMMP android application using Android studio with SMACK Library
 
 #Requirements
